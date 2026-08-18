@@ -133,8 +133,6 @@ Tests also provide:
 Given additional time:
 
 - Add more API negative and boundary scenarios
-- Add typed API request/response interfaces
-- Move environment-specific values to configuration
 - Improve API test isolation for parallel execution
 - Add CI execution and cross-browser coverage
 
